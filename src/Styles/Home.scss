@@ -1,0 +1,20 @@
+.section-box1{
+    height: 80vh;
+    justify-content: space-between;
+    background-color: #678899;
+}
+.container-box1{
+    color: #f9f9f9;
+    padding: 60px;
+    h1{
+        font-size: 50px;
+    }
+}
+.row-box1{
+    display: flex;
+    justify-content: space-arounds;
+    border-radius:15px;
+    background-color: #000000;
+    align-items: center ;
+    text-align: center;
+}
